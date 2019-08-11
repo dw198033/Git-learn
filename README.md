@@ -11,3 +11,5 @@ create a repo in github
 change https to ssh
 
 create a new brach: develop
+
+creating a new branch is quick & simple.
