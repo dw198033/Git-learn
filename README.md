@@ -8,3 +8,4 @@ Git tracks change of file.
 
 create a repo in github
 
+change https to ssh
