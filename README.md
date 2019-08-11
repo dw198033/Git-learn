@@ -10,11 +10,8 @@ create a repo in github
 
 change https to ssh
 
-<<<<<<< HEAD
 create a new brach: develop
 
-=======
 create a new branch: develop.
 
 create a new branch si quick and simple.
->>>>>>> feature1
