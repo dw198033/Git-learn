@@ -14,4 +14,6 @@ create a new brach: develop
 
 create a new branch: develop.
 
-create a new branch si quick and simple.
+create a new branch is quick and simple.
+
+delet a branch feature1
