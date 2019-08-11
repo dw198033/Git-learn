@@ -9,3 +9,5 @@ Git tracks change of file.
 create a repo in github
 
 change https to ssh
+
+create a new brach: develop
